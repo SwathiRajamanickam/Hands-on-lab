@@ -20,7 +20,7 @@ locations:
   WORK:
     mappingDefinitions:
       "5":
-        database: DEPLOY_TEST
+        database: PC_COALESCE_DB
         schema: PUBLIC
       "6":
         database: DEPLOY_PROD
